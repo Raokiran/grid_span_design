@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
 body{
     display:flex;
     height:100vh;
@@ -22,3 +23,11 @@ body{
     font-size: 18px;
     color: black;
   }
+h6{
+    color: rgb(0, 0, 0);
+   
+    font-size: 15px;
+    font-weight:900;
+    font-family: 'Poppins', sans-serif;
+  }
+
